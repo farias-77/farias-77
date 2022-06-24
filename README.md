@@ -20,7 +20,7 @@ My name is Gabriel Farias Alves, but you can call me only Farias. I'm a student 
 <img align="left" alt="Gabriel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=farias-77&show_icons=true&hide_border=true" />
 <img align="left" alt="Gabriel's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farias-77" />
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 #### Feel free to contact me!
 <img align="left" alt="Gmail" height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
