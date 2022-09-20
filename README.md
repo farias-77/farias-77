@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-My name is Gabriel Farias Alves, but you can call me only Farias. I'm a student from Brazil and I'm currently studying Computer Science at UFJF and web development at Driven Education.
+My name is Gabriel Farias Alves, but you can call me only Farias. I'm a student from Brazil and I'm currently studying Computer Science at UFJF and Full Stack web development at Driven Education.
 
 <br />
 
