@@ -2,8 +2,6 @@
 
 My name is Gabriel Farias Alves, but you can call me only Farias. I'm from Brazil and I'm currently studying Computer Science at UFJF and Full Stack web development at Driven Education.
 
-<br />
-
 #### Languages and Tools:
 <img align="left" alt="HTML5" height="25px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" height="25px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -17,6 +15,8 @@ My name is Gabriel Farias Alves, but you can call me only Farias. I'm from Brazi
 <img align="left" alt="C++" height="25px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img align="left" alt="Arduino" height="25px" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
 
+<br />
+<br />
 <br />
 <br />
 
