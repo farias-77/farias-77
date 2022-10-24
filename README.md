@@ -20,5 +20,5 @@ My name is Gabriel Farias Alves, but you can call me only Farias. I'm from Brazi
 <br />
 <br />
 
-[![Farias's GitHub stats](https://github-readme-stats.vercel.app/api?username=farias-77&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farias-77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Farias's GitHub stats](https://github-readme-stats.vercel.app/api?username=farias-77&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
