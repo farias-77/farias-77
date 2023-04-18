@@ -44,10 +44,3 @@ My name is Gabriel Farias Alves, but you can call me only Farias. I'm from Brazi
 <img alt="nginx" src="https://img.shields.io/badge/NGINX-28A745?style=for-the-badge&logo=Nginx&logoColor=white" />
 <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Arduino" height="25px" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-
-## Meu Wakatime!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farias-77&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Farias's GitHub stats](https://github-readme-stats.vercel.app/api?username=farias-77&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![wakatime](https://wakatime.com/badge/user/85a3e14b-3d50-40b1-814a-c1b1f15a28d4.svg)](https://wakatime.com/@85a3e14b-3d50-40b1-814a-c1b1f15a28d4)
