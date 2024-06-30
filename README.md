@@ -8,7 +8,7 @@
 
 My name is Gabriel Farias Alves, but you can call me only Farias. I'm from Brazil, I'm currently studying Computer Science at Inteli (Instituto de Tecnologia e Liderança) and graduated in Fullstack web development from Driven Education.
 
-## 🚀 My Skills
+## 🚀 We can talk about
 
 ### Languages
 
